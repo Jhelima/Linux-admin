@@ -1,0 +1,4 @@
+ls => lista os direotios
+ls -la 
+cd ../..
+cd /
